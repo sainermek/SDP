@@ -5,5 +5,4 @@ public class Main {
         homeTheater.watchMovie("Inception");
         System.out.println();
         homeTheater.endMovie();
-    }
-}
+    }}
