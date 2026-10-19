@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/asik3-SDP.iml" filepath="$PROJECT_DIR$/asik3-SDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/..iml" filepath="$PROJECT_DIR$/..iml" />
     </modules>
   </component>
 </project>
